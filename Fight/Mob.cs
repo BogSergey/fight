@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//parent class for all fighters
 namespace Fight
 {
     public abstract class Mob
@@ -70,7 +70,7 @@ namespace Fight
         {
             return HP;
         }
-        public static List<Mob> armyForming()
+        public static List<Mob> armyForming()// random forming army 
         {
             Random r = new Random(DateTime.Now.Millisecond);
             List<Mob> army = new List<Mob>();
@@ -116,7 +116,7 @@ namespace Fight
                         }
                 }
             }
-            army.Sort((a, b) => a.getPriority().CompareTo(b.getPriority()));
+            army.Sort((a, b) => a.getPriority().CompareTo(b.getPriority()));//sorting creatures by priority
             return army;
         }
 
