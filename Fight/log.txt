@@ -1,0 +1,100 @@
+Before battle
+kind Fight.HealingTower
+
+kind Fight.HealingTower
+
+kind Fight.AttackTower
+
+kind Fight.AttackTower
+
+kind Fight.AttackTower
+
+kind Fight.Archer
+
+kind Fight.Archer
+
+kind Fight.Healer
+
+kind Fight.Warrior
+
+kind Fight.Warrior
+
+dark Fight.HealingTower
+
+dark Fight.HealingTower
+
+dark Fight.AttackTower
+
+dark Fight.AttackTower
+
+dark Fight.AttackTower
+
+dark Fight.Archer
+
+dark Fight.Archer
+
+dark Fight.Healer
+
+dark Fight.Warrior
+
+dark Fight.Warrior
+
+kind Fight.HealingTower heal kind units
+dark Fight.HealingTower heal dark units
+dark Fight.HealingTower heal dark units
+kind Fight.HealingTower heal kind units
+kind Fight.AttackTower kill dark Fight.HealingTower
+
+dark Fight.AttackTower kill kind Fight.HealingTower
+kind Fight.AttackTower attack dark Fight.AttackTower hp 10
+
+dark Fight.AttackTower kill kind Fight.Archer
+kind Fight.AttackTower kill dark Fight.Archer
+
+dark Fight.AttackTower kill kind Fight.Healer
+dark Fight.Archer attack kind Fight.HealingTower hp 17
+kind Fight.Archer attack dark Fight.Warrior hp 2
+dark Fight.Healer heal dark units
+dark Fight.Warrior attack kind Fight.AttackTower hp 28
+dark Fight.Warrior attack kind Fight.AttackTower hp 26
+dark Fight.HealingTower heal dark units
+dark Fight.AttackTower kill kind Fight.Warrior
+dark Fight.AttackTower attack kind Fight.AttackTower hp 10
+dark Fight.AttackTower kill kind Fight.HealingTower
+dark Fight.Archer attack kind Fight.AttackTower hp 7
+dark Fight.Healer heal dark units
+kind Fight.Warrior attack dark Fight.AttackTower hp 28
+
+kind Fight.AttackTower kill dark Fight.Healer
+
+kind Fight.AttackTower attack dark Fight.AttackTower hp 8
+kind Fight.AttackTower kill dark Fight.HealingTower
+
+kind Fight.Archer attack dark Fight.AttackTower hp 5
+dark Fight.Warrior attack kind Fight.Warrior hp 3
+dark Fight.Warrior attack kind Fight.AttackTower hp 28
+dark Fight.AttackTower kill kind Fight.Warrior
+dark Fight.AttackTower kill kind Fight.Archer
+dark Fight.AttackTower attack kind Fight.AttackTower hp 6
+kind Fight.AttackTower kill dark Fight.Warrior
+
+kind Fight.AttackTower kill dark Fight.Archer
+
+kind Fight.AttackTower kill dark Fight.AttackTower
+
+kind Fight.AttackTower kill dark Fight.Warrior
+
+kind Fight.AttackTower kill dark Fight.AttackTower
+
+dark Fight.AttackTower kill kind Fight.AttackTower
+kind Fight.AttackTower attack dark Fight.AttackTower hp 10
+
+kind Fight.AttackTower kill dark Fight.AttackTower
+
+
+After battle
+
+kindFight.AttackTower 6
+
+kindFight.AttackTower 28
+
