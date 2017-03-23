@@ -1,0 +1,30 @@
+C:\Users\user\Desktop\Учёба\4 курс\пргрм\c# 2 contr\Fight\Fight\bin\Debug\Fight.exe.config
+C:\Users\user\Desktop\Учёба\4 курс\пргрм\c# 2 contr\Fight\Fight\obj\Debug\Fight.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Учёба\4 курс\пргрм\c# 2 contr\Fight\Fight\bin\Debug\Fight.exe
+C:\Users\user\Desktop\Учёба\4 курс\пргрм\c# 2 contr\Fight\Fight\bin\Debug\Fight.pdb
+C:\Users\user\Desktop\Учёба\4 курс\пргрм\c# 2 contr\Fight\Fight\obj\Debug\Fight.exe
+C:\Users\user\Desktop\Учёба\4 курс\пргрм\c# 2 contr\Fight\Fight\obj\Debug\Fight.pdb
+F:\пргрм\c# 2 contr\Fight\Fight\bin\Debug\Fight.exe.config
+F:\пргрм\c# 2 contr\Fight\Fight\obj\Debug\Fight.exe
+F:\пргрм\c# 2 contr\Fight\Fight\obj\Debug\Fight.pdb
+F:\пргрм\c# 2 contr\Fight\Fight\bin\Debug\Fight.exe
+F:\пргрм\c# 2 contr\Fight\Fight\bin\Debug\Fight.pdb
+F:\пргрм\c# 2 contr\Fight\Fight\obj\Debug\Fight.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Учёба\4 курс\пргрм\флеха\c# 2 contr\Fight\Fight\bin\Debug\Fight.exe.config
+C:\Users\user\Desktop\Учёба\4 курс\пргрм\флеха\c# 2 contr\Fight\Fight\obj\Debug\Fight.exe
+C:\Users\user\Desktop\Учёба\4 курс\пргрм\флеха\c# 2 contr\Fight\Fight\obj\Debug\Fight.pdb
+C:\Users\user\Desktop\Учёба\4 курс\пргрм\флеха\c# 2 contr\Fight\Fight\bin\Debug\Fight.exe
+C:\Users\user\Desktop\Учёба\4 курс\пргрм\флеха\c# 2 contr\Fight\Fight\bin\Debug\Fight.pdb
+C:\Users\user\Desktop\Учёба\4 курс\пргрм\флеха\c# 2 contr\Fight\Fight\obj\Debug\Fight.csprojResolveAssemblyReference.cache
+F:\Для сдачи .NET\c# 2 contr\Fight\Fight\bin\Debug\Fight.exe.config
+F:\Для сдачи .NET\c# 2 contr\Fight\Fight\obj\Debug\Fight.exe
+F:\Для сдачи .NET\c# 2 contr\Fight\Fight\obj\Debug\Fight.pdb
+F:\Для сдачи .NET\c# 2 contr\Fight\Fight\bin\Debug\Fight.exe
+F:\Для сдачи .NET\c# 2 contr\Fight\Fight\bin\Debug\Fight.pdb
+F:\Для сдачи .NET\c# 2 contr\Fight\Fight\obj\Debug\Fight.csprojResolveAssemblyReference.cache
+G:\Для сдачи .NET\c# 2 contr\Fight\Fight\bin\Debug\Fight.exe.config
+G:\Для сдачи .NET\c# 2 contr\Fight\Fight\obj\Debug\Fight.exe
+G:\Для сдачи .NET\c# 2 contr\Fight\Fight\obj\Debug\Fight.pdb
+G:\Для сдачи .NET\c# 2 contr\Fight\Fight\bin\Debug\Fight.exe
+G:\Для сдачи .NET\c# 2 contr\Fight\Fight\bin\Debug\Fight.pdb
+G:\Для сдачи .NET\c# 2 contr\Fight\Fight\obj\Debug\Fight.csprojResolveAssemblyReference.cache
