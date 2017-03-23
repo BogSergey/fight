@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//main file
 namespace Fight
 {
     class Program
@@ -19,7 +19,7 @@ namespace Fight
                 }
             }
         }*/
-        public static void Counter( ref int i, List<Mob> army)
+        public static void Counter( ref int i, List<Mob> army)//for control units in armyList
         {
             if (i >= (army.Count-1))
             {
@@ -54,7 +54,7 @@ namespace Fight
                 }
                 int i = 0;
                 int j = 0;
-                while (kindArmy.Count != 0 && darkArmy.Count != 0)
+                while (kindArmy.Count != 0 && darkArmy.Count != 0)//fight until the army is not empty
                 {
                     if (i > (kindArmy.Count - 1)) i = 0;
                     if (j > (darkArmy.Count - 1)) j = 0;
@@ -64,9 +64,9 @@ namespace Fight
                     Mob darkAttackedMob = darkArmy[r.Next(darkArmy.Count)];
                     //Console.WriteLine(i + " " + j +"\n");
                     //Console.WriteLine("prior " + kindAttakingMob.getPriority() + " " + darkAttackingMob.getPriority());
-                    if (kindAttakingMob.getPriority() < darkAttackingMob.getPriority())
+                    if (kindAttakingMob.getPriority() < darkAttackingMob.getPriority())//first attack
                     {
-                        if (kindAttakingMob is Healing)
+                        if (kindAttakingMob is Healing)//if mob is healer or healingTower
                         {
                             file.WriteLine("kind " + kindAttakingMob.GetType());
                             ((Healing)kindAttakingMob).healUnits(kindArmy);
